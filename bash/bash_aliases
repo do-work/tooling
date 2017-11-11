@@ -1,0 +1,7 @@
+
+##general-use
+alias reload='source ~/.bashrc'
+
+##php
+alias phperr='tail -f /var/log/apache2/error.log'
+
