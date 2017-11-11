@@ -1,4 +1,4 @@
-#Tooling!
+# Tooling!
 
 I have created this repo to make my tooling setup files more portable.
 bash_aliases and phpstorm to be more precise.
